@@ -38,7 +38,7 @@ _Formulario para crear un nuevo post_
 
 1. **Clonar el repositorio**
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MichaelVairoDev/Blog_Creation_App.git
 cd Blog_Creation_App
 ```
 
